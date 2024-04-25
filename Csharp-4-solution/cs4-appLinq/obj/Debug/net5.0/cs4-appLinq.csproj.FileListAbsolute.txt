@@ -1,0 +1,15 @@
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.AssemblyInfoInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.AssemblyInfo.cs
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.csproj.CoreCompileInputs.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.exe
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.deps.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.runtimeconfig.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.runtimeconfig.dev.json
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\bin\Debug\net5.0\cs4-appLinq.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\refint\cs4-appLinq.dll
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.pdb
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\cs4-appLinq.genruntimeconfig.cache
+C:\Users\I44105\Downloads\LEMONCODE\03 C#\testing\Csharp-4-solution\cs4-appLinq\obj\Debug\net5.0\ref\cs4-appLinq.dll
